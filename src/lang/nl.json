@@ -1,0 +1,426 @@
+{
+  "index.meta.title": "Uw Badkamer, onze Expertise: Van Ontwerp tot Realisatie | DEYA construction",
+  "index.meta.description": "DEYA Construction is gespecialiseerd in snelle, kosteneffectieve badkamerrenovaties in Nederland, waarbij gebruik wordt gemaakt van materialen van topkwaliteit om projecten op tijd en binnen budget op te leveren.",
+
+  "faq.meta.title": "FAQ | DEYA construction",
+  "faq.meta.description": "Vind antwoorden op al uw vragen over badkamerrenovaties bij DEYA Construction. Ontdek hoe wij snelheid, betaalbaarheid en materialen van A-kwaliteit garanderen voor elk project.",
+
+  "overons.meta.title": "Over Ons | DEYA construction",
+  "overons.meta.description": "Leer DEYA Construction kennen, uw betrouwbare partner in Nederland voor snelle en betaalbare badkamerrenovaties met uitsluitend materialen van A-kwaliteit. Maak kennis met ons toegewijde team.",
+
+  "contact.meta.title": "Contact | DEYA construction",
+  "contact.meta.description": "Neem contact op met DEYA Construction voor snelle en betaalbare oplossingen voor badkamerrenovaties in Nederland. Neem vandaag nog contact met ons op om uw project te bespreken met onze experts.",
+
+  "blog.meta.title": "Blog | DEYA construction",
+  "blog.meta.description": "Lees onze blogposts over badkamer renovaties. Ontdek hoe we kwaliteit, snelheid en betaalbaarheid garanderen voor elk project.",
+
+  "navbar.btn.index": "Startpagina",
+  "navbar.btn.calculate": "Bereken kosten",
+  "navbar.btn.about_us": "Over Ons",
+  "navbar.title.media": "Beoordeling en Sociaal",
+
+  "cta.title": "Gratis Offerte nu Ontvangen",
+  "cta.main": "Bereken kosten",
+  "cta.secondary": "Plan Gratis Consult",
+
+  "index.hero.subt.1": "Uw Badkamer, onze Expertise: ",
+  "index.hero.subt.2": "Van Ontwerp tot Realisatie",
+  "index.hero.body": "DEYA - dé expert in badkamerrenovaties en verbouwingen. Dankzij onze jarenlange ervaring en toewijding aan stijl en duurzaamheid, bieden wij onze klanten de beste service en kwaliteit voor de laagste prijs. Onze aanpak zorgt ervoor dat uw renovatie soepel, stressvrij en bevredigend verloopt. Ons doel is om uw renovatie- en verbouwingswensen te vervullen met een service die net zo schitterend is als uw nieuwe badkamer. Neem vandaag nog contact met ons op en ontdek hoe wij uw badkamer kunnen transformeren!",
+
+  "index.2.title1": "Jouw Badkamer,",
+  "index.2.title2": "Onze Passie",
+
+  "index.2.text": "Bij DEYA Construction zien we de badkamer als meer dan een functionele ruimte; het is een toevluchtsoord van luxe en comfort waar je kunt ontspannen. Wij zijn gespecialiseerd in het compleet renoveren van badkamers, waarbij we jouw persoonlijke wensen en eisen altijd als uitgangspunt nemen. Dankzij onze efficiënte aanpak kunnen we prijzen hanteren die ver onder het marktgemiddelde liggen. Dit bereiken we door slimme planning en kostenbesparing zonder de kwaliteit uit het oog te verliezen. We gebruiken A-kwaliteit materialen om ervoor te zorgen dat je nieuwe badkamer niet alleen mooi, maar ook duurzaam is. Onze prioriteit is het leveren van uitmuntende service en het garanderen van hoge klanttevredenheid, zodat je kunt genieten van een probleemloze renovatie van begin tot eind.",
+
+  "index.3.title": "Zorgeloze Badkamerrenovatie",
+  "index.3.subt": "Perfectie in elke stap van uw badkamerrenovatie. Ons uitgebreide dienstenpakket omvat elk aspect van de renovatie, zodat u zich geen zorgen hoeft te maken. Wij zorgen voor een soepele en zorgeloze ervaring, waarbij kwaliteit, transparantie en klanttevredenheid centraal staan.",
+
+  "index.3.pinp.1.head": "Sloopwerkzaamheden",
+  "index.3.pinp.1.body": "Wij zorgen voor veilig en schoon sloopwerk om ruimte te maken voor uw nieuwe badkamer. Dit doen we met minimale verstoring van uw dagelijks leven",
+
+  "index.3.pinp.2.head": "Tegels leggen",
+  "index.3.pinp.2.body": "Onze vakmensen plaatsen een ruim assortiment aan tegelmaterialen met precisie en zorg, waardoor uw badkamer een perfecte afwerking krijgt",
+
+  "index.3.pinp.3.head": "Badkameruitrusting",
+  "index.3.pinp.3.body": "Of het nu gaat om luxe douches of elegante wastafels, wij installeren alles voor u. We zorgen ervoor dat elke installatie naadloos en professioneel verloopt",
+
+  "index.3.pinp.4.head": "Meubelinstallatie",
+  "index.3.pinp.4.body": "We installeren functioneel en stijlvol meubilair om de look van uw badkamer compleet te maken. Ons team zorgt voor een harmonieuze en praktische inrichting",
+
+  "index.3.pinp.5.head": "A-kwaliteit materiaal",
+  "index.3.pinp.5.body": "Wij gebruiken alleen de beste materialen om duurzaamheid en schoonheid te garanderen. U kunt erop vertrouwen dat uw nieuwe badkamer niet alleen mooi, maar ook duurzaam zal zijn",
+
+  "index.3.pinp.6.head": "ALL-IN-prijzen",
+  "index.3.pinp.6.body": "Wij bieden transparante en nauwkeurige offertes voordat we beginnen. Geen verborgen kosten, zodat u precies weet waar u aan toe bent",
+
+  "index.3.img.subtl": "Voor en na DEYA construction",
+
+  "index.4.title": "Waarom DEYA Construction Uw Beste Keuze Is. De voordelen op een rij:",
+
+  "index.4.pinp.1.head": "Vaste en Laagste Prijzen",
+  "index.4.pinp.1.body": "DWij garanderen transparante prijzen zonder verborgen kosten. U betaalt altijd de laagste prijs voor de hoogste kwaliteit",
+
+  "index.4.pinp.2.head": "Ontwerpproject",
+  "index.4.pinp.2.body": "Onze deskundige ontwerpers helpen u bij het creëren van een badkamer die perfect aansluit bij uw stijl en behoeften.",
+
+  "index.4.pinp.3.head": "Snelle Werktijden",
+  "index.4.pinp.3.body": "Wij begrijpen dat uw tijd waardevol is. Onze efficiënte werkwijze zorgt ervoor dat uw project snel en zonder vertragingen wordt afgerond.",
+
+  "index.4.pinp.4.head": "Snelle bezorging",
+  "index.4.pinp.4.body": "Binnen 2 weken ronden wij het project af.",
+
+  "index.4.pinp.5.head": "Garantie op alle werken",
+  "index.4.pinp.5.body": "Op al onze werkzaamheden geven wij 3 jaar garantie.",
+
+  "index.4.pinp.6.head": "A-kwaliteit materiaal",
+  "index.4.pinp.6.body": "Wij werken met de beste materialen om ervoor te zorgen dat uw badkamer niet alleen mooi, maar ook duurzaam is.",
+
+  "index.4.pinp.7.head": "Professioneel team",
+  "index.4.pinp.7.body": "Ons team van vakkundige installateurs zorgt ervoor dat uw renovatie vlekkeloos wordt uitgevoerd.",
+
+  "index.4.pinp.8.head": "Klantgericht",
+  "index.4.pinp.8.body": "WUw wensen en tevredenheid staan bij ons centraal. Wij luisteren naar uw ideeën en zorgen voor een resultaat waar u trots op kunt zijn..",
+
+  "index.5.title": "Onze projecten",
+
+  "footer.title": "Begin vandaag nog met uw renovatie!",
+
+  "footer.whatsapp.subtl": "Vraag direct via WhatsApp een gratis offerte aan, stuur uw badkamerfoto's en krijg direct een prijsindicatie",
+
+  "footer.callus.title": "Bel ons!",
+
+  "footer.callus.subtl1": "Liever telefonisch contact?",
+  "footer.callus.subtl2": "We staan klaar om al uw vragen te beantwoorden.",
+
+  "footer.emailus.title": "Email us!",
+
+  "footer.emailus.subtl1": "Onze klantenservice staat klaar",
+  "footer.emailus.subtl2": "om al uw vragen te beantwoorden.",
+
+  "footer.links.contact": "Contact Ons",
+
+  "footer.link.1": "Bereken kosten",
+  "footer.link.2": "Plan Gratis Consult",
+  "footer.address": "Adres",
+
+  "faq.1.section": "Algemeen",
+
+  "faq.1.q": "Wat doet uw bedrijf precies?",
+  "faq.1.a": "Wij zijn gespecialiseerd in badkamer renovaties en verbouwingen. Of het nu gaat om een complete make-over van uw badkamer of een kleinere aanpassing, wij bieden op maat gemaakte oplossingen die aansluiten bij uw wensen en budget.",
+
+  "faq.2.q": "Hoe lang duurt een badkamer renovatie gemiddeld?",
+  "faq.2.a": "De duur van een badkamer renovatie hangt af van de omvang van het project. Over het algemeen ronden we uw badkamerreconstructie in slechts 2 weken af. Voor een nauwkeurige tijdsinschatting kunnen wij een vrijblijvend adviesgesprek plannen.",
+
+  "faq.3.q": "Werkt u met vaste prijzen of ontvangt u een offerte op maat?",
+  "faq.3.a": "Wij werken met offertes op maat. Daarnaast kunt u op onze website gebruikmaken van een online calculator, waarmee u nauwkeurig de kosten kunt berekenen. Na een eerste kennismakingsgesprek en een grondige analyse van uw wensen, ontvangt u van ons een gedetailleerde offerte waarin alle kosten helder zijn gespecificeerd.",
+
+  "faq.2.section": "Voorbereiding",
+
+  "faq.4.q": "Hoe bereid ik me voor op een badkamer renovatie?",
+  "faq.4.a": "Het is belangrijk om vooraf goed na te denken over uw wensen en eisen. Maak een lijst van wat u mooi en functioneel vindt, en bespreek dit met ons. Wij kunnen u ook adviseren over de beste materialen en indelingen.",
+
+  "faq.5.q": "Moet ik zelf materialen aanschaffen?",
+  "faq.5.a": "Dat is niet nodig. Wij werken samen met gerenommeerde leveranciers en zorgen voor de aanschaf van alle benodigde materialen. Als u echter specifieke wensen heeft of zelf materialen wilt aanschaffen, is dat uiteraard mogelijk. Het is wel fijn om deze informatie te hebben voordat onze manager het contract opstelt.",
+
+  "faq.6.q": "Wat is de prijs van meten en advies?",
+  "faq.6.a": "Dit is altijd gratis. We zijn altijd blij om alle metingen, planning en berekeningen gratis en zonder verborgen kosten uit te voeren.",
+
+  "faq.7.q": "Kan ik hulp krijgen bij het ontwerpen van mijn nieuwe badkamer?",
+  "faq.7.a": "Absoluut! Ons team van ontwerpers staat klaar om u te helpen met het creëren van een ontwerp dat zowel functioneel als esthetisch aantrekkelijk is.",
+
+  "faq.8.q": "Wat gebeurt er tijdens het eerste adviesgesprek?",
+  "faq.8.a": "Tijdens het eerste adviesgesprek bespreken we uw wensen en ideeën, nemen we de maten van uw huidige badkamer op en adviseren we u over de mogelijke ontwerpen en materialen. Dit gesprek is geheel vrijblijvend en gratis.",
+
+  "faq.3.section": "Uitvoering",
+
+  "faq.9.q": "Moet ik mijn woning verlaten tijdens de renovatie?",
+  "faq.9.a": "In de meeste gevallen kunt u gewoon in uw woning blijven tijdens de renovatie. Wij doen ons best om overlast te minimaliseren en werken in overleg met u aan een planning die past bij uw situatie.",
+
+  "faq.10.q": "Wat gebeurt er met het afval en puin na de renovatie?",
+  "faq.10.a": "Wij zorgen voor een volledige afvoer en correcte verwerking van alle afvalmaterialen en puin. Uw woning wordt netjes achtergelaten zodat u direct kunt genieten van uw nieuwe badkamer.",
+
+  "faq.11.q": "Hoe snel kunt u beginnen met werken?",
+  "faq.11.a": "We kunnen de volgende werkdag beginnen, nadat het contract is ondertekend.",
+
+  "faq.4.section": "Garantie en Nazorg",
+
+  "faq.12.q": "Biedt u garantie op uw werk?",
+  "faq.12.a": "Ja, wij bieden garantie op al onze werkzaamheden. De exacte duur en voorwaarden van de garantie worden duidelijk vermeld in de offerte en de overeenkomst.",
+
+  "faq.13.q": "Wat als er na de renovatie problemen optreden?",
+  "faq.13.a": "Mocht er na de renovatie een probleem optreden, dan kunt u altijd contact met ons opnemen. Wij komen zo snel mogelijk langs om het probleem te beoordelen en op te lossen.",
+
+  "faq.5.section": "Kosten en Betaling",
+
+  "faq.14.q": "Wat kost een gemiddelde badkamer renovatie?",
+  "faq.14.a": "De kosten van een badkamer renovatie variëren sterk en zijn afhankelijk van de grootte van de badkamer, de gekozen materialen en de complexiteit van de werkzaamheden. Tijdens een vrijblijvend adviesgesprek kunnen wij u een gerichte indicatie geven.",
+
+  "faq.15.q": "Hoe verloopt de betaling?",
+  "faq.15.a": "We hebben meer dan één optie en dit kan altijd besproken worden met een van onze managers. De betaling verloopt meestal in termijnen. U betaalt een aanbetaling bij het ondertekenen van de overeenkomst, een tweede betaling tijdens de werkzaamheden en het resterende bedrag na oplevering van de badkamer.",
+
+  "faq.6.section": "Contact en Advies",
+
+  "faq.16.q": "Hoe kan ik een afspraak maken voor een adviesgesprek?",
+  "faq.16.a": "U kunt een afspraak maken door ons telefonisch te benaderen, een e-mail te sturen of het contactformulier op onze website in te vullen. Wij nemen dan zo snel mogelijk contact met u op om een geschikt moment in te plannen.",
+
+  "faq.7.section": "Bedrijfsinformatie",
+
+  "faq.17.q": "Heeft u een licentie?",
+  "faq.17.a": "Ja, we zijn officieel geregistreerd in Nederland. We hebben licenties voor alle werkzaamheden gerelateerd aan badkamer- en toiletreconstructie.",
+
+  "faq.18.q": "Wat is de workflow van DEYA construction?",
+  "faq.18.a.1": "U ontmoet onze manager om alles op te meten.",
+  "faq.18.a.2": "Dezelfde dag ontvangt u een schatting van de kosten.",
+  "faq.18.a.3": "Zodra we een akkoord van u krijgen, kunnen we een contract ondertekenen, alle materialen leveren en met het werk beginnen.",
+  "faq.18.a.4": "U krijgt al het werk gedaan in 2 weken.",
+
+  "faq.question": "Heeft u een vraag die hier niet beantwoord wordt? Neem gerust contact met ons op. Wij staan klaar om u te helpen met al uw vragen en wensen omtrent badkamer renovatie en verbouwingen!",
+  "contact.title": "DEYA construction Contacten",
+  "contact.1.title": "DEYA construction",
+  "contact.1.subtitle": "Waar Kwaliteit Betrouwbaarheid en Stijl Ontmoet",
+  "contact.1.body": "Bij DEYA construction zijn we meer dan alleen aannemers; we zijn uw partners bij het creëren van een ruimte die uw stijl weerspiegelt en aan uw behoeften voldoet. Klaar om uw badkamer te transformeren? Neem vandaag nog contact met ons op om een consultatie te plannen en ontdek hoe we uw renovatiedromen werkelijkheid kunnen maken.",
+  "contact.1.body.2": "We hebben ons bedrijf opgebouwd op basis van de verzoeken van klanten die we zagen werken met de grote ketens waar je hoogstwaarschijnlijk je badkamerartikelen zou kopen. Daarom bieden wij een vaste prijs voor badkamerrenovaties. Om ervoor te zorgen dat de klant zijn budget kon plannen, was het tijdstip waarop het project moest starten ook duidelijk en transparant.",
+
+  "contact.form.header": "Gratis meting & advies",
+  "contact.form.line1": "Vraag een gratis offerte aan door het onderstaande formulier in te vullen. Onze manager neemt spoedig contact met u op om een afspraak te plannen. Binnen 24 uur voeren wij een gratis meting en berekening uit en geven deskundig advies.",
+
+  "contact.form.input.1.label": "Uw naam",
+  "contact.form.input.1.placeholder": "Vul uw volledige naam in",
+
+  "contact.form.input.2.label": "Uw telefoonnummer",
+  "contact.form.input.2.placeholder": "Vul uw telefoonnummer in",
+
+  "contact.form.input.3.label": "Uw e-mail",
+  "contact.form.input.3.placeholder": "Vul uw e-mailadres in",
+
+  "contact.form.input.4.label": "Jouw Vraag",
+  "contact.form.input.4.placeholder": "Vul uw vraag in",
+
+  "contact.form.input.btn": "Verzenden",
+
+  "planner.form.1.header": "Ontvang direct een kostenberekening voor uw badkamer en/of toilet!",
+  "planner.form.1.subtl": "Vul onderstaand formulier in om verder te gaan met de kostenberekening.",
+  "planner.form.1.input.1.label": "Uw naam",
+  "planner.form.1.input.1.placeholder": "Vul uw volledige naam in",
+  "planner.form.1.input.2.label": "Uw telefoonnummer",
+  "planner.form.1.input.2.placeholder": "Vul uw telefoonnummer in",
+  "planner.form.1.input.3.label": "Uw e-mail",
+  "planner.form.1.input.3.placeholder": "Vul uw e-mailadres in",
+  "planner.form.1.subtl2": "Alle prijzen zijn vast en inclusief BTW",
+  "planner.form.1.input.btn": "Start Berekening",
+
+  "overons.title": "Over Ons",
+  "overons.body.1": "Bij DEYA begrijpen we hoe belangrijk het is om zo lang mogelijk van je eigen huis te genieten. Je huis is de plek waar je je thuis voelt, omringd door familie en vrienden. Daarom bieden wij hoogwaardige badkamerrenovaties aan, zodat je woning altijd aan je wensen voldoet.<br /><br />Met onze jarenlange ervaring garanderen we de beste service en kwaliteit tegen de scherpste prijs. Onze aanpak zorgt ervoor dat jouw renovatie soepel, stressvrij en bevredigend verloopt. Ons doel is om jouw renovatie- en verbouwingswensen waar te maken met een service die net zo schitterend is als je nieuwe badkamer. Neem vandaag nog contact met ons op en ontdek hoe wij jouw badkamer kunnen transformeren!",
+
+  "overons.2.title": "Onze Oplossingen",
+  "overons.2.body.1": "Bij DEYA bieden we complete en gedeeltelijke badkamer- en toiletrenovaties, afgestemd op jouw wensen. Of je nu kiest voor een volledige transformatie of een opfrissing, binnen twee weken leveren wij vakwerk.",
+  "overons.2.body.2": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Onze diensten omvatten:</h4><ul><li>Installatie en vervanging van sanitair zoals toiletten, wastafels, baden, douches en bidets.</li><li>Water- en energiebesparende oplossingen met kranen, douchesystemen en energie-efficiënte verlichting.</li><li>Vloertegels en wandtegels, inclusief mozaïektegels en grote keramische tegels, evenals vinyl en waterbestendig laminaat.</li><li>Plaatsing en installatie van badkamermeubels en maatwerkoplossingen voor extra opslagruimte.</li><li>Creatie van moderne inloopdouches en plaatsing van vrijstaande en ingebouwde baden, inclusief whirlpools.</li></ul>",
+  "overons.2.body.3": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Badkamer All-in Pakket</h4>Maak het jezelf gemakkelijk met ons all-in pakket voor een complete badkamerrenovatie. Kies voor ons standaardpakket of stel je droombadkamer samen met hulp van onze experts.",
+  "overons.2.body.4": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Ontwerp en Advies</h4>Wij ontwerpen professionele badkamers en toiletten en bieden gratis advies over indeling, materiaalkeuze en inrichting.",
+  "overons.2.body.5": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Demontage en Afvalverwijdering</h4>Wij verzorgen veilige en efficiënte verwijdering van oude badkamerinrichtingen en recyclen sloopafval en oude materialen op milieuvriendelijke wijze.",
+  "overons.2.body.6": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Uitgebreide Garantie en Nazorg</h4>Wij bieden 36 maanden garantie op al onze werkzaamheden en bieden nazorgdiensten voor onderhoud en reparatie.",
+  "overons.2.body.7": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Heb je geen complete renovatie nodig?</h4> Wij kunnen ook gedeeltelijke werkzaamheden uitvoeren, zoals het vervangen van sanitair, tegelwerk of het installeren van verlichting en ventilatie.",
+
+  "overons.3.title": "Onze Werkwijze",
+  "overons.3.body.1": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Stap 1: Contact, Meting en Advies</h4>Tijdens het eerste adviesgesprek bespreken we jouw wensen en ideeën voor de nieuwe badkamer. We nemen de maten op en adviseren over mogelijke ontwerpen en materialen. Dit gesprek is vrijblijvend en gratis. Je ontvangt een gedetailleerde kostenraming zodat je precies weet waar je aan toe bent.",
+  "overons.3.body.2": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Stap 2: Aankoop van Materialen</h4>Wij werken samen met gerenommeerde leveranciers en regelen de aanschaf van alle benodigde materialen. Heb je specifieke wensen of wil je zelf materialen aanschaffen? Dat is uiteraard mogelijk. Geef deze informatie tijdig door aan onze manager voor een soepel proces.",
+  "overons.3.body.3": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Stap 3: Voorbereiding en Planning</h4>Na goedkeuring van het ontwerp en de offerte, stellen we een gedetailleerde planning op. We zorgen ervoor dat alle materialen op tijd beschikbaar zijn en plannen de werkzaamheden in overleg met jouw beschikbaarheid en voorkeuren.",
+  "overons.3.body.4": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Stap 4: Uitvoering van de Renovatie</h4><ol><li>Voorbereiding van de Werklocatie: We dekken vloeren en meubels af om je huis te beschermen tegen stof en vuil. Vervolgens demonteren we de bestaande badkamerinrichting.</li><li>Installatiewerkzaamheden: Onze vakmensen leggen nieuwe leidingen voor water en elektriciteit, installeren afvoersystemen en zorgen voor een veilige infrastructuur.</li><li>Constructie en Installatie: We bouwen nieuwe wanden of gipskartonconstructies, plaatsen het nieuwe sanitair en installeren badkamermeubels en wastafels.</li><li>Tegelwerk en Afwerking: We leggen nieuwe vloertegels en wandtegels, schilderen of stucen de muren en zorgen voor een perfecte afwerking van de badkamer.</li><li>Eindinspectie en Oplevering: Na afronding van alle werkzaamheden voeren we een grondige eindinspectie uit samen met jou. We zorgen ervoor dat alles naar wens is en geven je een uitgebreide uitleg over het onderhoud van je nieuwe badkamer.</li></ol>",
+  "overons.3.body.5": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Stap 5: Nazorg en Garantie</h4>Wij bieden 36 maanden garantie op al onze werkzaamheden. Mocht er na oplevering een probleem optreden, neem dan contact met ons op. We komen zo snel mogelijk langs om het probleem te beoordelen en op te lossen.<br/><br/>Wij zijn actief in heel Nederland en staan altijd open voor nieuwe samenwerkingen. Samen kunnen we jouw badkamerdromen werkelijkheid maken! 🛁✨",
+
+  "overons.4.title": "Waarom DEYA Construction?",
+  "overons.4.body.1": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Ervaring en Betrouwbaarheid</h4>Met jarenlange ervaring en een team van deskundige vakmensen, garanderen wij een zorgeloze renovatie van hoge kwaliteit.",
+  "overons.4.body.2": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Snelle Start en Oplevering</h4>We kunnen de volgende werkdag beginnen na ondertekening van het contract, zodat jouw project direct van start gaat. Wij leveren ons werk op de afgesproken tijd zonder vertraging.",
+  "overons.4.body.3": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Transparantie en Communicatie</h4>Onze projectmanagers houden je continu op de hoogte van de voortgang en zorgen voor heldere communicatie gedurende het gehele proces.",
+  "overons.4.body.4": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600'>Flexibele Betalingsmogelijkheden en 3 jaar Garantie</h4>We bieden meerdere betalingsopties zodat je kunt kiezen wat het beste bij je past. Bespreek de mogelijkheden met een van onze managers. Bovendien bieden we kwaliteitsgarantie op al onze werkzaamheden: 3 jaar garantie.",
+
+  "overons.5.closure": "<h4 class='text_dk_blue' style='font-style: normal; font-weight: 600;'>Neem Vandaag Nog Contact Op!</h4> Heb je vragen of wil je een afspraak maken? Onze specialisten staan klaar om je te helpen bij elke stap van je badkamerrenovatie.",
+
+  "planner.nav.price": "Prijsindicatie",
+
+  "planner.1.title": "Wil je een douche en/of bad?",
+  "planner.1.shower.card": "Douche",
+  "planner.1.shower.title": "Wat voor douche zou je willen hebben?",
+  "planner.1.shower.card.1.title": "Inloopdouche",
+  "planner.1.shower.card.1.body": "Inclusief wand, inbouwgoot, opbouwkraan en inclusief installatie van maximaal 5 wateraansluitingen en locatiewijziging.",
+  "planner.1.shower.card.2.title": "Douchecabine",
+  "planner.1.shower.card.2.body": "Inclusief cabine, douchebak, opbouwkraan en inclusief installatie van maximaal 5 wateraansluitingen en locatiewijziging.",
+  "planner.1.shower.card.3.title": "Nisdeur",
+  "planner.1.shower.card.3.body": "Inclusief goot en kraan en inclusief installatie van maximaal 5 wateraansluitingen en locatiewijziging.",
+
+  "planner.1.bath.card": "Bad",
+  "planner.1.bath.title": "Wat voor bad zou je willen hebben?",
+  "planner.1.bath.card.1.title": "Inbouwbad",
+  "planner.1.bath.card.1.body": "met badkraan, toebehoren en inclusief installatie van maximaal 5 wateraansluitingen en locatiewijziging.",
+  "planner.1.bath.card.2.title": "Vrijstaand bad",
+  "planner.1.bath.card.2.body": "met badkraan, toebehoren en inclusief installatie van maximaal 5 wateraansluitingen en locatiewijziging.",
+  "planner.1.bath.card.3.title": "Bad/douchecombinatie",
+  "planner.1.bath.card.3.body": "met badwand, opbouwkraan en inclusief installatie van maximaal 5 wateraansluitingen en locatiewijziging.",
+
+  "planner.2.title": "Heeft u sloopwerkzaamheden nodig?",
+  "planner.2.card.1.title": "Demontage werkzaamheden",
+  "planner.2.card.1.body": "Alle sloopwerkzaamheden in uw badkamer en bouwcontainer huur - 3m2, omvat stucloper.",
+  "planner.2.card.2.title": "Bouwcontainer huur 3m2",
+  "planner.2.card.2.body": "Voor een goede recycling van het afval heeft u een bouwcontainer nodig.",
+
+  "planner.3.title": "Wat voor wastafel wens je?",
+  "planner.3.card.1.title": "Badkamermeubel installatie",
+  "planner.3.card.1.body": "Wij plaatsen badkamermeubels.",
+  "planner.3.card.2.title": "Nee",
+
+  "planner.4.title": "Wil je ook verwarming?",
+  "planner.4.card.1.title": "Ja, installatie en aansluiting van warme vloeren",
+  "planner.4.card.1.body": "Badkamer oppervlak kleiner dan 5 m2",
+  "planner.4.card.2.title": "Ja, installatie en aansluiting van warme vloeren",
+  "planner.4.card.2.body": "Badkamer oppervlak 5 m2 of groter",
+  "planner.4.card.3.title": "Ja, installatie van wandverwarming",
+  "planner.4.card.3.body": "Aansluiting en installatie van elektrische wandhanddoekverwarmer",
+  "planner.4.card.4.title": "Nee",
+
+  "planner.5.title": "Wilt u de elektriciteit opnieuw aansluiten?",
+  "planner.5.card.1.title": "Ja",
+  "planner.5.card.1.body": "Installeer maximaal 5 nieuwe elektriciteitspunten in de badkamer.",
+  "planner.5.card.2.title": "Ja",
+  "planner.5.card.2.body": "Installeer maximaal 7 nieuwe elektriciteitspunten in de badkamer.",
+  "planner.5.card.3.title": "Nee",
+
+  "planner.6.title": "Wilt u uw sanitair aansluitpunten verhuizen?",
+  "planner.6.card.1.title": "Ja, maximaal 3 aansluitpunten verplaatsen en installeren.",
+  "planner.6.card.1.body": "Meestal is dit gewoon een handkraanaansluiting of een doucheaansluiting.",
+  "planner.6.card.2.title": "Ja, maximaal 6 aansluitpunten verplaatsen en installeren.",
+  "planner.6.card.2.body": "Meestal is dit gewoon een handkraanaansluiting en een doucheaansluiting.",
+  "planner.6.card.3.title": "Ja, maximaal 8 aansluitpunten verplaatsen en installeren.",
+  "planner.6.card.3.body": "Meestal is dit gewoon een handkraanaansluiting, een doucheaansluiting en toilet aansluiting.",
+  "planner.6.card.4.title": "Nee",
+
+  "planner.7.title": "Wil je een toilet opnemen in de calculatie?",
+  "planner.7.card.1.title": "WC",
+  "planner.7.card.1.body": "Complete wc met inbouwreservoir en toiletbril",
+  "planner.7.card.2.title": "Douchewc",
+  "planner.7.card.2.body": "Douchewc met inbouwreservoir en toiletbril",
+  "planner.7.card.3.title": "Nee",
+  "planner.7.card.3.body": "Toilet bevindt zich in een aparte ruimte",
+
+  "planner.8.title": "Wil je tegels opnemen in je calculatie?",
+  "planner.8.card.1.title": "Basistegels",
+  "planner.8.card.1.body": "Complete afwerking van je badkamer. De kortste zijde van de tegel is langer dan 30 cm. Typische maten: 60x60 cm, 45x45 cm, 90x90 cm, 40x30 cm, 120x40cm, enz.",
+  "planner.8.card.2.title": "Luxe tegels",
+  "planner.8.card.2.body": "Tegels met een eigen uitstraling. De kortste zijde van de tegel is korter dan 30 cm. Typische afmetingen: 4x30 cm, 15x15 cm, enz.",
+  "planner.8.card.3.title": "Nee",
+  "planner.8.card.3.body": "Je kiest voor een andere afwerking",
+
+  "planner.8.tiles.title": "Tegels",
+  "planner.8.tiles.subtl": "Vul de afmetingen van jouw badkamer in om de prijs te berekenen. Ramen en deuren mag je in deze berekening weglaten. Let je er ook op dat je de afmetingen in centimeters vermeldt?",
+  "planner.8.tiles.length": "Lengte",
+  "planner.8.tiles.width": "Breedte",
+  "planner.8.tiles.height": "Hoogte",
+  "planner.8.tiles.m2.tiles": "Geschat tegels aantal m2",
+  "planner.8.tiles.m2.floor": "Geschatte vloeroppervlakte m2",
+
+  "planner.btn.back": "Vorige",
+  "planner.btn.forward": "Volgende",
+
+  "planner.finish.title": "Uw bouwopgave voor badkamerrenovatie",
+  "planner.finish.contact.title": "Neem contact met ons op voor een gratis en nauwkeurige schatting:",
+  "planner.finish.contact.email": "Email",
+  "planner.finish.contact.call": "Call us",
+  "planner.finish.contact.whatsapp": "WhatsApp",
+
+  "planner.finish.selected.1": "Bad",
+  "planner.finish.selected.2": "Douche",
+  "planner.finish.selected.3": "Demontage",
+  "planner.finish.selected.4": "Badkamer meubel installatie",
+  "planner.finish.selected.5": "Badkamer verwarmingsinstallatie",
+  "planner.finish.selected.6": "Badkamer elektriciteit installatie",
+  "planner.finish.selected.7": "Badkamer loodgieters werk",
+  "planner.finish.selected.8": "Prijs toiletinstallatie",
+  "planner.finish.selected.9": "Installatiewerkzaamheden voor tegels",
+  "planner.finish.selected.10": "Geschat tegels aantal",
+  "planner.finish.selected.11": "Geschatte vloeroppervlakte",
+  "planner.finish.selected.12": "VAT",
+  "planner.finish.selected.13": "Totaal ex. VAT",
+  "planner.finish.selected.14": "Totaal",
+
+  "planner.finish.no": "No",
+
+  "planner.finish.pinp.title": "Dit is een globale schatting gebaseerd op",
+  "planner.finish.pinp.1": "Een kwalitatief goede badkamer",
+  "planner.finish.pinp.2": "Ons kernassortiment aan producten",
+  "planner.finish.pinp.3": "Vaak gekozen opties van klanten",
+
+  "planner.finish.cta.email": "Berekening opslaan en naar mijn e-mail sturen.",
+  "planner.finish.cta.btn.email": "Nu verzenden",
+  "planner.finish.cta.btn.print": "Afdrukken",
+  "planner.finish.advice.title": "We geven je graag persoonlijk advies",
+  "planner.finish.advice.body": "Onze budgetplanner geeft slechts een indicatie van het benodigde budget, maar kan sterk beïnvloed worden door persoonlijke keuzes. Wij helpen en adviseren je daar graag in!",
+  "planner.finish.cta.appointment": "Maak een afspraak",
+  "planner.finish.cta.appointment.subtl": "Uiteraard gratis & vrijblijvend",
+
+  "planner.1.warning.1": "Oeps! Selecteer een douche, bad of beide alsjeblieft.",
+  "planner.1.warning.2": "Oeps! Selecteer een van de douches alsjeblieft.",
+  "planner.1.warning.3": "Oeps! Selecteer een van de baden alsjeblieft.",
+
+  "planner.2.warning.1": "Oeps! Selecteer een optie alsjeblieft.",
+
+  "planner.3.warning.1": "Oeps! Selecteer een badkamermeubel alsjeblieft.",
+
+  "planner.4.warning.1": "Oeps! Selecteer een verwarming type alsjeblieft.",
+
+  "planner.5.warning.1": "Oeps! Selecteer een optie alsjeblieft.",
+
+  "planner.6.warning.1": "Oeps! Selecteer sanitair aansluitpunten alsjeblieft.",
+
+  "planner.7.warning.1": "Oeps! Selecteer een toilet type alsjeblieft.",
+
+  "planner.8.warning.1": "Oeps! Selecteer een tegels type alsjeblieft.",
+  "planner.8.warning.2": "Oeps! Vul uw badkamermaat in om de prijs te berekenen.",
+  "planner.8.warning.3": "Oeps! Zorg ervoor dat uw waarde in centimeters is. Wij accepteren alleen gehele getallen voor lengte, breedte en hoogte.",
+
+  "planner.finish.success.1": "Bedankt. Hier is uw berekening. U kunt deze naar uw e-mail sturen en contact met ons opnemen om uw bestelling te plaatsen.",
+
+  "planner.1.meta.title": "Plan uw badkamerrenovatiebudget online met DEYA Construction.",
+  "planner.1.meta.description": "Begin met het plannen van wat je wilt hebben: een douche, een bad of beide!",
+
+  "planner.2.meta.title": "Heeft u sloopwerk nodig?",
+  "planner.2.meta.description": "Bepaal wat u nodig heeft: sloopwerkzaamheden of gewoon een container voor het reconstructieproces.",
+
+  "planner.3.meta.title": "Welk soort wastafel wilt u?",
+  "planner.3.meta.description": "Plant u de installatie van een wastafel en badkamermeubel?",
+
+  "planner.4.meta.title": "Wilt u ook verwarming?",
+  "planner.4.meta.description": "Wilt u verwarming? Wij kunnen vloerverwarming installeren of we kunnen wandverwarming installeren.",
+
+  "planner.5.meta.title": "Wilt u de elektriciteit opnieuw aansluiten?",
+  "planner.5.meta.description": "Op basis van uw eisen kunt u kiezen hoeveel nieuwe elektriciteitspunten u nodig heeft in de badkamer.",
+
+  "planner.6.meta.title": "Wilt u uw sanitair aansluitpunten verplaatsen?",
+  "planner.6.meta.description": "Op basis van uw eisen kunt u kiezen hoeveel sanitair aansluitpunten u verplaatst wilt hebben.",
+
+  "planner.7.meta.title": "Wilt u een toilet opnemen in de berekening?",
+  "planner.7.meta.description": "Heeft u een toilet in uw badkamer of bevindt deze zich ergens anders in een aparte ruimte?",
+
+  "planner.8.meta.title": "Wilt u tegels opnemen in uw berekening?",
+  "planner.8.meta.description": "Wilt u dat wij de tegels in uw badkamer afmaken. We kunnen uw muren en vloer bedekken met alle soorten tegels, van basis tot luxe.",
+
+  "planner.finish.meta.title": "Uw bouwopgave voor badkamerrenovatie",
+  "planner.finish.meta.description": "Hier vindt u onze voorlopige berekening voor uw badkamerreconstructiewerken. U kunt dit naar uw e-mail sturen, afdrukken of een afspraak met ons maken.",
+
+  "meeting.title": "Bedankt. Uw afspraak was gepland.",
+  "meeting.body": "Bedankt, uw afspraak is gepland. Wij nemen z.s.m. contact met u op om de afspraak te bevestigen. U ontvangt tevens een afspraakbevestiging in uw e-mail. Als u iets wilt wijzigen, kunt u via de link in uw e-mail uw afspraak wijzigen.",
+
+  "meeting.meta.title": "Bedankt. Uw afspraak was gepland.",
+  "meeting.meta.description": "Wij nemen z.s.m. contact met u op om de afspraak te bevestigen.",
+
+  "cookie.meta.title": "Cookie Beleid | DEYA Construction",
+  "cookie.meta.description": "Hier vindt u het cookiebeleid van DEYA Bouw",
+  "cookie.title": "DEYA Construction - Cookie Beleid",
+  "footer.link.3": "Cookie Beleid",
+
+  "reviews.title": "Ervaringen van onze klanten",
+  "reviews.btn.werkspot": "Alle Werkspot Recensies",
+  "reviews.btn.google": "Alle Google Recensies",
+
+  "blog.title": "Blogpagina",
+  "blog.readmore": "Lees meer",
+  "blog.otherblogs": "Andere blogs"
+}
